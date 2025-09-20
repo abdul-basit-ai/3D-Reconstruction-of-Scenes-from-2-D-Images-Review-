@@ -17,3 +17,5 @@ understanding of the current state of the art. The paper aims to
 serve as a foundation for future research in neural 3D
 reconstruction and its applications in computer vision, graphics,
 robotics, and immersive technologies 
+<img width="2000" height="2828" alt="image" src="https://github.com/user-attachments/assets/da91e5b5-9682-4313-9e5b-268bbb932d62" />
+
